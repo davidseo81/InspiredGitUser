@@ -1,4 +1,4 @@
-# inspiredGitUser
+# InspiredGitUser
 * 나에게 영감을 주는 깃헙 사용자들을 쭈욱 모아볼 생각이다. 
 
     phillyai님. 
